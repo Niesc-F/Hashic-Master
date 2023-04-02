@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hashic-Master
-- 🌱 I’m currently learning C++
+- 🌱 I’m a student.
 - 📫 How to reach me ...
 
 <!---
